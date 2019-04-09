@@ -1,13 +1,13 @@
 ---
-title: Rady a tipy pro tvorbu her pro zaèáteèníky Home
+title: Rady a tipy pro tvorbu her pro zaĂ¨ĂĄteĂ¨nĂ­ky Home
 ---
 
 
-**Chtìl bych tímto webem pomoci lidem, kteøí by se rádi ve volném èasi rádi vìnovali tvorbì vlastních her v Unity. Také bych byl rád, kdyby sloužil jako místo, kde by si lidé mohli radit s problémy, pøípadnì pøicházet s nápady, èi inspiracemi pro ostatní. Sice podobné stránky v angliètinì fungují, ale byl bych rád, kdyby byla i vìtší èeská stránka o tomto tématu.**
+**ChtĂŹl bych tĂ­mto webem pomoci lidem, kteĂ¸Ă­ by se rĂĄdi ve volnĂŠm Ă¨asi rĂĄdi vĂŹnovali tvorbĂŹ vlastnĂ­ch her v Unity. TakĂŠ bych byl rĂĄd, kdyby slouĹžil jako mĂ­sto, kde by si lidĂŠ mohli radit s problĂŠmy, pĂ¸Ă­padnĂŹ pĂ¸ichĂĄzet s nĂĄpady, Ă¨i inspiracemi pro ostatnĂ­. Sice podobnĂŠ strĂĄnky v angliĂ¨tinĂŹ fungujĂ­, ale byl bych rĂĄd, kdyby byla i vĂŹtĹĄĂ­ Ă¨eskĂĄ strĂĄnka o tomto tĂŠmatu.**
 
-Sám se ve volném èase vìnuji vlastní tvorbì her právì v programu Unity a proto si myslím, že bych na toto téma mohl pøinést vlastní pohled a poradit lidem, kteøí by s tvorbou her chtìli zaèít, ohlednì vìcí, nad kterými jsem sám zbyteènì strávil spoustu èasu a o kterých jsem až pozdìji zjistil, že se dají vyøešit daleko jednodušeji. Nebo se podìlit o problémy se kterými jsem se sám setkal.
+SĂĄm se ve volnĂŠm Ă¨ase vĂŹnuji vlastnĂ­ tvorbĂŹ her prĂĄvĂŹ v programu Unity a proto si myslĂ­m, Ĺže bych na toto tĂŠma mohl pĂ¸inĂŠst vlastnĂ­ pohled a poradit lidem, kteĂ¸Ă­ by s tvorbou her chtĂŹli zaĂ¨Ă­t, ohlednĂŹ vĂŹcĂ­, nad kterĂ˝mi jsem sĂĄm zbyteĂ¨nĂŹ strĂĄvil spoustu Ă¨asu a o kterĂ˝ch jsem aĹž pozdĂŹji zjistil, Ĺže se dajĂ­ vyĂ¸eĹĄit daleko jednoduĹĄeji. Nebo se podĂŹlit o problĂŠmy se kterĂ˝mi jsem se sĂĄm setkal.
 
-Na internetu je opravdu spoustu návodù jak zaèít s programováním her, s jakým programem, s jakým typem hry, ovšem velká vìtšina je v angliètinì a i pøesto, že bìhem samotného programování se bez angliètiny asi ani obejít nedá, alespoò nìjaký základ v èeštinì by mohl být pøínosem alespoò pro pár lidí.
+Na internetu je opravdu spoustu nĂĄvodĂš jak zaĂ¨Ă­t s programovĂĄnĂ­m her, s jakĂ˝m programem, s jakĂ˝m typem hry, ovĹĄem velkĂĄ vĂŹtĹĄina je v angliĂ¨tinĂŹ a i pĂ¸esto, Ĺže bĂŹhem samotnĂŠho programovĂĄnĂ­ se bez angliĂ¨tiny asi ani obejĂ­t nedĂĄ, alespoĂ˛ nĂŹjakĂ˝ zĂĄklad v Ă¨eĹĄtinĂŹ by mohl bĂ˝t pĂ¸Ă­nosem alespoĂ˛ pro pĂĄr lidĂ­.
 
 https://unity.com/
 
@@ -15,7 +15,3 @@ https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
 
 https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
 
-  <a class="weatherwidget-io" href="https://forecast7.com/en/49d2016d61/brno/" data-label_1="BRNO" data-label_2="WEATHER" data-days="3" data-theme="sky" >BRNO WEATHER</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
