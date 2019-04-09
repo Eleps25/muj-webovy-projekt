@@ -14,3 +14,8 @@ https://unity.com/
 https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
 
 https://docs.unity3d.com/ScriptReference/MonoBehaviour.html
+
+  <a class="weatherwidget-io" href="https://forecast7.com/en/49d2016d61/brno/" data-label_1="BRNO" data-label_2="WEATHER" data-days="3" data-theme="sky" >BRNO WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
